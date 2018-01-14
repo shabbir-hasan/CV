@@ -1,6 +1,6 @@
 # Site Settings
 title: Curriculum Vitae
-url: 'https://shabbir-hasan.github.io'
+url: 'http://shabbir-hasan.github.io'
 baseurl: '/cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
