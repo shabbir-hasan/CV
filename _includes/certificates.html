@@ -1,0 +1,22 @@
+{% if site.data.certificates %}
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-certificate"></i>Certificates</h2>
+
+{% for certificate in site.data.certificates %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ certificate.name }}</h3>
+        <div class="time">{{ certificate.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company"> by {{ certificate.by }}</div>
+
+    </div><!--//meta-->
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}

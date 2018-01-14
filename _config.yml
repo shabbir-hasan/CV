@@ -1,0 +1,35 @@
+# Site Settings
+title: Curriculum Vitae
+url: 'https://www.shabbir.pw'
+baseurl: '/cv' #change it according to your repository name
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+#Profile information
+name: Shabbir Hasan
+tagline: Electrical Project Engineer at Sojitz Corporation
+pic: shabbir-hasan.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'I am an Project Engineer in Sojitz Corporation Currently living in Jeddah, Kingdom of Saudi Arabia. Previously I have worked as Planning Enginnner and Electrical QA QC Engineer in KEC International Ltd. and Toshiba Transmission & Distribution Systems Asia Sdn. Bhd. My interests range from technology to travel. I am also interested in reading, blogging and listening to music. And I always try to be better version of myself.'
+
+#sidebar links
+email: shabbirhasan@outlook.com
+phone: +91-7070091067
+mobile: +966-539157084
+website: shabbir.pw #do not add http://
+linkedin: shabbir-hasan
+github: shabbir-hasan
+twitter: '@shabbir_hasan_'
+#Update all the sections by editing the files inside _data folder.
+
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development

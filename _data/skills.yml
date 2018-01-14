@@ -1,0 +1,24 @@
+- skill:
+  name: Greenplum Administration
+  level: 95%
+- skill:
+  name: PostgreSQL Administration
+  level: 70%
+- skill:
+  name: Python Programming
+  level: 70% 
+- skill:
+  name: MarkLogic Administration
+  level: 60%
+- skill:
+  name: Shell Scripting
+  level: 60%
+- skill:
+  name: XQuery
+  level: 50%
+- skill:
+  name: Linux Administration
+  level: 40%
+- skill:
+  name: Amazon Web Services
+  level: 20%
