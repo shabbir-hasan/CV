@@ -1,5 +1,5 @@
 # Site Settings
-title: Curriculum Vitae
+title: Curriculum Vitae of Mr.Shabbir Hasan
 url: 'https://cv.shabbir.pw'
 #baseurl: '/CV' #change it according to your repository name
 
@@ -14,7 +14,15 @@ url: 'https://cv.shabbir.pw'
 name: Shabbir Hasan
 tagline: Electrical Project Engineer at Sojitz Corporation
 pic: shabbir-hasan.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am an Project Engineer in Sojitz Corporation Currently living in Jeddah, Kingdom of Saudi Arabia. Previously I have worked as Planning Enginnner and Electrical QA QC Engineer in KEC International Ltd. and Toshiba Transmission & Distribution Systems Asia Sdn. Bhd. My interests range from technology to travel. I am also interested in reading, blogging and listening to music. And I always try to be better version of myself.'
+summary: > 
+        Project Engineer / Project Coordinator / Project Planning & Cost Control Specialist / Scheduling Engineer / QA QC Engineer / Sr. Electrical Engineer
+        Highly effective, technical and practical project management skills and the ability to deliver difficult projects on schedule within budget and harsh environment to the organization and its customers. An ability to work in upstream locations with limited communications and scant logistical support with minimal supervision where self-reliance and lateral thinking are required. I have 7 years of working experience in multi-disciplinary projects and teams. Professional Electrical Engineer, a recognized and relevant bachelor of technology degree (B.Tech in Electrical & Electronics Engineering). Proven technical, interpersonal communications and training skills.
+
+        I have worked with multi-disciplinary companies having experience in power industries especially in UHV / EHV power grid division / SBU delivering solutions over power value chain, which includes system solution for power generation, transmission technologies, substations and distribution technologies for grid network management.
+
+        Some of the turnkey EPC projects on which I have worked were 380/132/33/13.8kV, 132/13.8kV substation projects, 380kV and 132kV transmission line projects, 400kV bay extension projects and 66kV/33kV/11kV HV distribution line projects etc. The experience also includes in steel structures Gantries, Towers & Steel Support Structures for CT, VT, CVT, PI, SA and their foundations.
+        
+        Command on latest project management software's Primavera P6 R17.7, Ms. Projects 2016, ERP-BAAN and SAP. Advanced level expertise in Ms. Office tools such as excel, word and power point etc. Intermediate level expertise in computer languages such as Python, GoLang, Rust and JScript’s etc. Also well versed with latest codes of practices followed in India and KSA such as SEC- TES, TCS, TMSS etc., Aramco Standards, IEEE Standards, IEC Standards and IS Indian Standards.
 
 #sidebar links
 email: shabbirhasan@outlook.com
